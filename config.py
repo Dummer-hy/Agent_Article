@@ -6,7 +6,7 @@ from typing import List, Dict, Optional
 @dataclass
 class Config:
     # API配置
-    DEEPSEEK_API_KEY: str = os.getenv("DEEPSEEK_API_KEY", "sk-ba2338d4c1c14fea9d5b9c81cca863be")
+    DEEPSEEK_API_KEY: str = os.getenv("DEEPSEEK_API_KEY", "XXXXXXXXXXXXXXXXXXXXXXX")
     KIMI_API_KEY: str = os.getenv("KIMI_API_KEY", "")
 
     # 模型选择
