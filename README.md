@@ -32,3 +32,6 @@
 
 ### 安装步骤（待后续更新）
 创建虚拟环境根据文件头引用安装所需包，本项目使用了MinerU来转换提取pdf内容，其次arvix_mcp也可选（目前使用arvix官方接口，无需安装mcp），MinerU：https://github.com/opendatalab/mineru?tab=readme-ov-file#known-issues，Arvix_MCP:https://github.com/blazickjp/arxiv-mcp-server
+
+###
+GHYばか
