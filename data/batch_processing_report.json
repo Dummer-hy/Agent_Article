@@ -1,0 +1,30 @@
+{
+  "total_papers": 1,
+  "successful_papers": 0,
+  "failed_papers": 1,
+  "total_markdown_files": 0,
+  "total_image_files": 0,
+  "processing_details": [
+    {
+      "paper_id": "2505.01109v1",
+      "title": "Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study",
+      "authors": [
+        "Ali Mammadov",
+        "Loic Le Folgoc",
+        "Julien Adam",
+        "Anne Buronfosse",
+        "Gilles Hayem",
+        "Guillaume Hocquet",
+        "Pietro Gori"
+      ],
+      "published": "2025-05-02T08:43:50+00:00",
+      "success": false,
+      "paper_dir": null,
+      "pdf_path": null,
+      "mineru_path": null,
+      "main_md_file": null,
+      "result_dir": null,
+      "error": "[WinError 3] 系统找不到指定的路径。: 'data\\\\2505.01109v1_Self-Supervision Enhances Instance-based Multiple \\\\pdf'"
+    }
+  ]
+}

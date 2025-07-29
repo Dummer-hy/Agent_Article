@@ -1,0 +1,52 @@
+{
+  "paper_info": {
+    "id": "2507.18848v1",
+    "title": "PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis",
+    "summary": "Multiple Instance Learning (MIL) has advanced WSI analysis but struggles with\nthe complexity and heterogeneity of WSIs. Existing MIL methods face challenges\nin aggregating diverse patch information into robust WSI representations. While\nViTs and clustering-based approaches show promise, they are computationally\nintensive and fail to capture task-specific and slide-specific variability. To\naddress these limitations, we propose PTCMIL, a novel Prompt Token\nClustering-based ViT for MIL aggregation. By introducing learnable prompt\ntokens into the ViT backbone, PTCMIL unifies clustering and prediction tasks in\nan end-to-end manner. It dynamically aligns clustering with downstream tasks,\nusing projection-based clustering tailored to each WSI, reducing complexity\nwhile preserving patch heterogeneity. Through token merging and prototype-based\npooling, PTCMIL efficiently captures task-relevant patterns. Extensive\nexperiments on eight datasets demonstrate its superior performance in\nclassification and survival analysis tasks, outperforming state-of-the-art\nmethods. Systematic ablation studies confirm its robustness and strong\ninterpretability. The code is released at https://github.com/ubc-tea/PTCMIL.",
+    "authors": [
+      "Beidi Zhao",
+      "SangMook Kim",
+      "Hao Chen",
+      "Chen Zhou",
+      "Zu-hua Gao",
+      "Gang Wang",
+      "Xiaoxiao Li"
+    ],
+    "published": "2025-07-24T23:33:59+00:00",
+    "pdf_url": "http://arxiv.org/pdf/2507.18848v1",
+    "arxiv_url": "http://arxiv.org/abs/2507.18848v1",
+    "_relevance_score": 0.8
+  },
+  "processing_result": {
+    "paper_id": "2507.18848v1",
+    "title": "PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis",
+    "authors": [
+      "Beidi Zhao",
+      "SangMook Kim",
+      "Hao Chen",
+      "Chen Zhou",
+      "Zu-hua Gao",
+      "Gang Wang",
+      "Xiaoxiao Li"
+    ],
+    "published": "2025-07-24T23:33:59+00:00",
+    "success": false,
+    "paper_dir": "data\\2507.18848v1_PTCMIL Multiple Instance Learning via Prompt Token",
+    "pdf_path": "data\\2507.18848v1_PTCMIL Multiple Instance Learning via Prompt Token\\pdf\\2507.18848v1.pdf",
+    "mineru_path": null,
+    "main_md_file": null,
+    "result_dir": "data\\2507.18848v1_PTCMIL Multiple Instance Learning via Prompt Token\\result",
+    "error": "PDF转换失败"
+  },
+  "mineru_analysis": {},
+  "directory_structure": {
+    "pdf_dir": "data\\2507.18848v1_PTCMIL Multiple Instance Learning via Prompt Token\\pdf",
+    "mineru_dir": "data\\2507.18848v1_PTCMIL Multiple Instance Learning via Prompt Token\\MinerU_process",
+    "result_dir": "data\\2507.18848v1_PTCMIL Multiple Instance Learning via Prompt Token\\result"
+  },
+  "files_count": {
+    "markdown_files": 0,
+    "image_files": 0,
+    "other_files": 0
+  }
+}

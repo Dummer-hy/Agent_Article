@@ -1,0 +1,640 @@
+文献标题
+"Integrating radiomics, pathomics, and biopsy-adapted immunoscore for predicting distant metastasis in locally advanced rectal cancer"
+"A CT-based deep learning-driven tool for automatic liver tumor detection and delineation in patients with cancer
+"
+Clinical validation of an AI-based pathology tool for scoring of metabolic dysfunction-associated steatohepatitis
+Co-synthesis of Histopathology Nuclei Image-Label Pairs Using a Context-Conditioned Joint Diffusion Model
+ Benchmarking Self-Supervised Learning on Diverse Pathology Datasets
+Artificial Intelligence for Predicting HER2 Status of Gastric Cancer Based on Whole-Slide Histopathology lmages: A Retrospective Multicenter Study
+Advancing Volumetric Medical Image Segmentation via Global-Local Masked Autoencoders 
+How Effective Can Dropout Be in Multiple Instance Learning ?
+A Frequency Domain Neural Network for Fast Image Super-resolution
+MRI-Based Topology Deep Learning Model for Noninvasive Prediction of Microvascular Invasion and Assisting Prognostic Stratification in HCC
+Tumor evolution metrics predict recurrence beyond 10 years in locally advanced prostate cancer
+Diversity matters: Cross-head mutual mean-teaching for semi-supervised medical image segmentation
+Spatially resolved transcriptomics and graph-based deep learning improve accuracy of routine CNS tumor diagnostics
+Advances in the study of tertiary lymphoid structures in the immunotherapy of breast cancer
+"Adapting Visual-Language Models for
+Generalizable Anomaly Detection in Medical Images"
+Bi-directional Feature Fusion Generative Adversarial Network for Ultra-high Resolution Pathological Image Virtual Re-staining 
+Shuffle Instances-based Vision Transformer for Pancreatic Cancer ROSE Image Classification
+An Interactive Learning Framework for Scalable Classification of Pathology Images
+"Efficient Face Super-Resolution via Wavelet-based Feature
+Enhancement Network"
+A Large-scale Synthetic Pathological Dataset for Deep Learning-enabled Segmentation of Breast Cancer
+Perineural invasion detection in pancreatic ductal adenocarcinoma using artificial intelligence
+Self-Path: Self-supervision for Classification of Pathology Images with Limited Annotations
+RSRefSeg: Referring Remote Sensing Image Segmentation with Foundation Models
+WaveSeg‐UNet model for overlapped nuclei segmentation from multi‐organ histopathology images
+Harnessing TME depicted by histological images to improve cancer prognosis through a deep learning system
+HistDiST Histopathological Diffusion-based Stain Transfer
+Hibou: A Family of Foundational Vision Transformers for Pathology
+Genetic mutation and biological pathway prediction based on whole slide images in breast carcinoma using deep learning
+"Claudin 18.2 Expression in 1404 Digestive Tract Adenocarcinomas Including 1175 Colorectal Carcinomas: Distinct Colorectal Carcinoma Subtypes Are Claudin 18.2 Positive
+"
+Learning Attention in the Frequency Domain for Flexible Real Photograph Denoising
+ Survival Prediction via Hierarchical Multimodal Co-Attention Transformer: A Computational Histology-Radiology Solution
+"Integrated analysis of radiomics, RNA, and clinicopathologic phenotype reveals biological basis of prognostic risk stratification in colorectal cancer
+"
+cWDM: Conditional Wavelet Diffusion Models for Cross-Modality 3D Medical Image Synthesis
+Cell Graph Transformer for Nuclei Classiffcation 
+HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction
+"Towards a Visual-Language Foundation Model for
+Computational Pathology"
+"PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding
+"
+Systematic Inference of Super-resolution Cell Spatial Profiles from Histology Images
+Data-driven Knowledge Fusion for Deep Multi-instance Learning
+CellVTA: Enhancing Vision Foundation Models for Accurate Cell Segmentation and Classification
+scNET: learning context-specific gene and cell embeddings by integrating single-cell gene expression data with protein–protein interactions
+Artificial intelligence multiprocessing scheme for pathology images based on transformer for nuclei segmentation
+MULGONET: An interpretable neural network framework to integrate multi-omics data for cancer recurrence prediction and biomarker discovery
+"2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification
+"
+Diffusion histology imaging differentiates distinct pediatric tumor histology
+On-the-Fly Modulation for Balanced Multimodal Learning
+"Transcriptomics-guided Slide Representation Learning in Computational Pathology
+"
+Multimodal representations of biomedical knowledge from limited training whole slide images and reports using deep learning
+StereoMM: a graph fusion model for integrating spatial transcriptomic data and pathological images
+Deep Multi-Magnification Similarity Learning for Histopathological Image Classification
+A Morphology Focused Diffusion Probabilistic Model for Synthesis of Histopathology Images
+Additive MIL: Intrinsically Interpretable Multiple Instance Learning for Pathology
+HiViT: Hierarchical attention-based Transformer for multi-scale whole slide histopathological image classification
+"Modality-agnostic Domain Generalizable Medical Image Segmentation by
+Multi-Frequency in Multi-Scale Attention"
+A multi-modal deep learning model for prediction of Ki-67 for meningiomas using pretreatment MR images
+SurvGraph: A hybrid-graph attention network for survival prediction using whole slide pathological images in gastric cancer
+Histopathologic image–based deep learning classifier for predicting platinum-based treatment responses in high-grade serous ovarian cancer
+MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology
+WaveSNet: Wavelet Integrated Deep Networks for Image Segmentation
+Hematoxylin and Eosin-stained whole slide image dataset annotated for skin tissue segmentation
+PointFormer: Keypoint-Guided Transformer for Simultaneous Nuclei Segmentation and Classification in Multi-Tissue Histology Images
+Diffusion models for out-of-distribution detection in digital pathology
+Resolving tissue complexity by multimodal spatial omics modeling with MISO
+"Prediction of molecular subtypes for endometrial
+cancer based on hierarchical foundation model"
+Detection of perineural invasion in prostate needle biopsies with deep neural networks
+Multi-rater Prism: Learning self-calibrated medical image segmentation from multiple raters
+"Network-based multi-omics integrative analysis methods in drug discovery: a systematic review
+"
+Agent Aggregator with Mask Denoise Mechanism for Histopathology Whole Slide Image Analysis
+"Deep learning-based model for prediction of early recurrence and therapy response on whole slide images in non-muscle-invasive bladder cancer: a retrospective, multicentre study"
+TB-YOLO: Automated Tumor Budding Detection in Immunohistochemistry Slides of Colorectal Cancer
+MSFusion: A multi-source hybrid feature fusion network for accurate grading of invasive breast cancer using H&E-stained histopathological images
+"SEMI-SUPERVISED MEDICAL IMAGE SEGMENTATION METHOD BASED ON 
+CROSS-PSEUDO LABELING LEVERAGING STRONG AND WEAK DATA AUGMENTATION 
+STRATEGIES"
+A clinical benchmark of public self-supervised pathology foundation models
+VGGT: Visual Geometry Grounded Transformer
+Deep Multi-modal Fusion of Image and Non-image Data in Disease Diagnosis and Prognosis: A Review
+Exploiting Geometric Features via Hierarchical Graph Pyramid Transformer for Cancer Diagnosis
+PROTOTYPICAL INFORMATION BOTTLENECKING AND DISENTANGLING FOR MULTIMODAL CANCER SUR-VIVAL PREDICTION
+Emerging Properties in Self-Supervised Vision Transformers
+Zig-RiR: Zigzag RWKV-in-RWKV for Efficient Medical Image Segmentation
+Interpretable multi-modal artificial intelligence model for predicting gastric cancer response to neoadjuvant chemotherapy
+VISION TRANSFORMER ADAPTER FOR DENSE PREDICTIONS
+Learning Representations with Contrastive Self-Supervised Learning for Histopathology Applications
+Transcriptomics-guided Slide Representation Learning in Computational Pathology
+Prompting Vision Foundation Models for Pathology Image Analysis
+An efficient dual-branch framework via implicit self-texture enhancement for arbitrary-scale histopathology image super-resolution
+ Structure Embedded Nucleus Classification for Histopathology Images
+MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification
+Multi-resolution deep learning characterizes tertiary lymphoid structures and their prognostic relevance in solid tumors
+Automated Hybrid Model for Detecting Perineural Invasion in the Histology of Colorectal Cancer
+Development and validation of an interpretable model integrating multimodal information for improving
+Robust Multimodal Survival Prediction with Conditional Latent Differentiation Variational AutoEncoder
+Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need 
+Deep learning for predicting prognostic consensus molecular subtypes in cervical cancer from histology images
+Multi-scale representation attention based deep multiple instance learning for gigapixel whole slide image analysis 
+SpinFlowSim: A blood flow simulation framework for histology-informed diffusion MRI microvasculature mapping in cancer
+"Unraveling microglial spatial organization in the developing human brain with DeepCellMap, a deep learning approach coupled with spatial statistics"
+Big-Hypergraph Factorization Neural Network for Survival Prediction From Whole Slide Image
+Development and validation of a radiopathomic model for predicting pathologic complete response to neoadjuvant chemotherapy in breast cancer patients
+UniCell: Universal Cell Nucleus Classification via Prompt Learning
+Multi-level Wavelet Convolutional Neural Networks
+RankMix: Data Augmentation for Weakly Supervised Learning of ClassifyingWhole Slide Images with Diverse Sizes and Imbalanced Categories
+Tertiary lymphoid structures (TLS) identification and density assessment on H&E-stained digital slides of lung cancer
+Single-cell morphological and topological atlas reveals the ecosystem diversity of human breast cancer
+GPDBN:deep bilinear network integrating both genomic data and pathological images for breast cancer prognosis prediction
+Deep Learning-Based Classification of Cancer Cell in Leptomeningeal Metastasis on Cytomorphologic Features of Cerebrospinal Fluid
+Convolutional neural networks for wavelet domain super resolution
+A comprehensive evaluation of histopathology foundation models for ovarian cancer subtype classification
+H2-MIL: Exploring Hierarchical Representation with Heterogeneous Multiple Instance Learning for Whole Slide Image Analysis
+A dynamic uncertainty-aware ensemble model: Application to lung cancer segmentation in digital pathology
+DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification
+Interpretable Multimodal Fusion Model for Bridged Histology and Genomics Survival Prediction in Pan-Cancer
+"AdvMIL: Adversarial Multiple Instance Learning for the Survival Analysis on Whole-Slide Images ⋆ ,⋆⋆ "
+Spatial-Frequency Mutual Learning for Face Super-Resolution
+A multimodal generative AI copilot for human pathology
+An interactive learning framework for scalable classification of pathology images
+Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Model
+Whole Slide Images are 2D Point Clouds: Context-Aware Survival Prediction using Patch-based Graph Convolutional Networks
+"Bootstrap Your Own Latent 
+A New Approach to Self-Supervised Learning"
+ correlation analysis for breast cancer survival prediction
+"Inter-Intra Hypergraph Computation for Survival 
+Prediction on Whole Slide Images"
+ViLa-MIL: Dual-scale Vision-language Multiple Instance Learning for Whole Slide Image Classification — Supplementary Materials
+L-WaveBlock A Novel Feature Extractor
+Scoring Tumor-Infiltrating Lymphocytes in Breast DCIS: A Guideline-Driven Artificial Intelligence Approach
+Wave-ViT Unifying Wavelet and Transformers
+Transfer learning radiomic model predicts intratumoral tertiary lymphoid structures in hepatocellular carcinoma: a multicenter study
+Self-Supervised Representation Learning using Visual Field Expansion on Digital Pathology
+"Next-generation lung cancer 
+pathology: Development and validation 
+of diagnostic and prognostic algorithms"
+"Generalizable Whole Slide Image Classification with Fine-Grained
+Visual-Semantic Interaction"
+Improving Self-Supervised Learning With Hardness-Aware Dynamic Curriculum Learning: An Application to Digital Pathology
+Efficient Multi-scale Network with Learnable Discrete Wavelet Transform for Blind Motion Deblurring
+U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation
+U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation
+"Improving text-conditioned latent diffusion for cancer 
+pathology"
+PraNet-V2 Dual-Supervised Reverse Attention for Medical Image Segmentation
+Spatial transcriptome reveals histology-correlated immune signature learnt by deep learning attention mechanism on H&E-stained images for ovarian cancer prognosis
+Self-supervised learning for characterising histomorphological diversity and spatial RNA expression prediction across 23 human tissue types
+"PathAsst: A Generative Foundation AI Assistant Towards Artificial General Intelligence of Pathology
+"
+Exploring the values underlying machine learning research in medical image analysis 
+Segment Any Nuclei: A Prompt-free Segment Anything Model for Nuclei from Histology Image
+AsymMirai: Interpretable Mammography-based Deep Learning Model for 1–5-year Breast Cancer Risk Prediction
+PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology
+ Maskedhypergraphlearningforweaklysupervisedhistopathologywhole slide image classification
+UniSAL: Unified Semi-Supervised Active Learning for Histopathological Image Classification
+Dual-stream multi-dependency graph neural network enables precise cancer survival analysis
+Deep Learning Enabled Scoring of Pancreatic Neuroendocrine Tumors Based on Cancer Infiltration Patterns
+Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation 
+ LWGANet: A Lightweight Group Attention Backbone for Remote Sensing Visual Tasks
+"Weakly Supervised Classification
+for Nasopharyngeal Carcinoma
+With Transformer in Whole
+Slide Images"
+A user-friendly tool for cloud-based whole slide image segmentation with examples from renal histopathology
+"
+An Overview of Deep Semi-Supervised Learning"
+"ICSDA: a multi-modal deep learning model 
+to predict breast cancer recurrence and metastasis risk by integrating 
+pathological, clinical and gene expression data"
+ReMix: A General and Efficient Framework forMultiple Instance Learning based Whole SlideImage Classification
+Efficient discovery of robust prognostic biomarkers and signatures in solid tumors
+Spatial immune scoring system predicts hepatocellular carcinoma recurrence
+Quantifying Cardiac Tissue Composition Using QuPath and Cellpose: An Accessible Approach to Postmortem Diagnosis
+"A pathology foundation model for cancer
+diagnosis and prognosis prediction"
+Attention-Challenging Multiple Instance Learning for Whole Slide Image Classification
+Cohort-Individual Cooperative Learning forMultimodal Cancer Survival Analysis
+"Fast and Accurate Gigapixel Pathological Image Classification 
+with Hierarchical Distillation Multi-Instance Learning"
+CAMIL: CONTEXT-AWARE MULTIPLE INSTANCELEARNING FOR CANCER DETECTION AND SUBTYP-ING IN WHOLE SLIDE IMAGES
+CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology
+Prediction and analysis of tumor infiltrating lymphocytes across28cancers by TILScout using deep learning
+Arbitrary-steps Image Super-resolution via Diffusion Inversion
+Masked-attention Mask Transformer for Universal Image Segmentation
+Analysing cerebrospinal fluid with explainable deep learning: From diagnostics to insights 
+Cross-scale Multi-instance Learning for Pathological Image Diagnosis
+Computational Pathology at Health System Scale -- Self-Supervised Foundation Models from Three Billion Images
+CWT-Net Super-resolution of Histopathology
+Momentum Contrast for Unsupervised Visual Representation Learning
+"Weakly Supervised Joint Whole-Slide Segmentation and Classification 
+in Prostate Cancer"
+Integrating deformable CNN and attention mechanism into multiscale graph neural network for fewshot image classification 
+Medical image super-resolution reconstruction algorithms based on deep learning: A survey 
+Multi-scale relational graph convolutional network for multiple instance learning in histopathology images
+Learnable prototype-guided multiple instance learning for detecting tertiary lymphoid structures in multi-cancer whole-slide pathological images
+Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+DiffCollage：Parallel Generation of Large Cotent with Diffusion Models
+Prediction of recurrence risk in endometrial cancer with multimodal deep learning
+Deep Learning-Enabled Integration ofHistology and Transcriptomics for TissueSpatial Profile Analysis
+A quantitative spatial cell-cell colocalizations framework enabling comparisons between in vitro assembloids and pathological specimens
+Computerized tertiary lymphoid structures density on H&E-images is a prognostic biomarker in resectable lung adenocarcinoma
+UniAda: Domain Unifying and Adapting Network for Generalizable Medical Image Segmentation 
+"Digital profiling ofgene expression from
+histology images with linearized attention"
+Histopathological Classification of Breast Cancer Images Using a Multi-Scale Input and Multi-Feature Network
+Applied deep learning in neurosurgery: identifying cerebrospinal fluid (CSF) shunt systems in hydrocephalus patients
+Edge-Labeling Graph Neural Network for Few-shot Learning 
+"Ensemble transformer-based multiple instance learning to predict pathological subtypes and tumor mutational burden from histopathological whole slide images of endometrial and colorectal cancer
+"
+Survival Analysis of Histopathological Image Based on a Pretrained Hypergraph Model of Spatial Transcriptomics Data
+Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images
+Self supervised artificial intelligence predicts poor outcome from primary cutaneous squamous cell carcinoma at diagnosis
+"Generative Models in Computational Pathology: A Comprehensive 
+Survey on Methods, Applications, and Challenges"
+"MBDRes-U-Net: Multi-Scale Lightweight Brain 
+Tumor Segmentation Network"
+"NACNet: A histology context-aware transformer graph convolution network
+for predicting treatment response to neoadjuvant chemotherapy in Triple
+Negative Breast Cancer"
+Wavelet-Attention CNN for Image Classification
+Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study
+"Automatic evaluation of tumor budding in 
+immunohistochemically stained colorectal 
+carcinomas and correlation to clinical 
+outcome"
+Graph attention-based fusion of pathology images and gene expression for prediction of cancer survival
+PathNarratives: Data annotation for pathological human-AI collaborative diagnosis
+Generalizability of Self-Supervised Training Models for Digital Pathology: A Multicountry Comparison in Colorectal Cancer
+Multimodal fusion of radio-pathology and proteogenomics identify integrated glioma subtypes with prognostic and therapeutic opportunities
+"Style-Extracting Diffusion Models for 
+Semi-Supervised Histopathology Segmentation"
+MixDehazeNet: Mix Structure Block For Image Dehazing Network
+BAWGNet: Boundary aware wavelet guided network for the nuclei segmentation in histopathology images
+CGAM: An end-to-end causality graph attention Mamba network for esophageal pathology grading
+cDP-MIL: Robust Multiple Instance Learning via Cascaded Dirichlet Process
+Glo-net: A dual task branch based neural network for multi-class glomeruli segmentation
+PathOrchestra: A Comprehensive Foundation Model for Computational Pathology with Over 100 Diverse Clinical-Grade Tasks
+Deep learning uncovers histological patterns of YAP1/TEAD activity related to disease aggressiveness in cancer patients
+Application of Convolutional Neural Networks for Parallel Multi-Scale Feature Extraction in Noise Image Denoising
+MVFStain:Multiple virtual functional stain histopathology images generation based on specific domain mapping 
+Review of wavelet denoising algorithms
+"Generative adversarial networks accurately reconstruct pan-cancer histology from pathologic, genomic, and radiographic latent features"
+Active Learning with Statistical Models
+Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?
+ Cross-Modal Translation and Alignment for Survival Analysis
+Computational Pathology at Health System Scale – Self-Supervised Foundation Models from Billions of Images
+CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation
+Multi-Scale Heterogeneity-Aware Hypergraph Representation for Histopathology Whole Slide Images
+Decoding pan-cancer treatment outcomes using multimodal real-world data and explainable artificial intelligence
+Multi-Instance Partial-Label Learning with Margin Adjustment
+Test-Time Stain Adaptation with Diffusion Models for Histopathology Image Classification
+TransMlL:Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification
+CFI-ViT: A coarse-to-fine inference based vision transformer for gastric cancer subtype detection using pathological images
+"Deep Learning Enabled Scoring of Pancreatic Neuroendocrine Tumors Based on Cancer Infiltration Patterns
+"
+Interventional Bag Multi-Instance Learning On Whole-Slide Pathological Images
+Investigating lung cancer microenvironment from cell segmentation of pathological image and its application in prognostic stratification
+"Self-supervised Learning for Endoscopic 
+Video Analysis"
+Unsupervised stain augmentation enhancedglomerular instance segmentation onpathologyimages
+"Tumor Cellularity Assessment Using Artificial Intelligence Trained on Immunohistochemistry-Restained Slides Improves Selection of Lung Adenocarcinoma Samples for Molecular Testing
+"
+Multiple Instance Learning via Iterative Self-Paced Supervised Contrastive Learning
+Pathology diagnosis of intraoperative frozen thyroid lesions assisted by deep learning
+Sparse Multi-Modal Graph Transformer with Shared-Context Processing for Representation Learning of Giga-pixel Images
+FLAME :FrozenLargeLanguage Models Enable Data-Efficient Language-Image Pre-training
+DGR-MIL: Exploring diverse global representation in MIL for WSI classification
+Triple-negative breast cancer survival prediction using artificial intelligence through integrated analysis of tertiary lymphoid structures and tumor budding
+Optimising Diffusion Models for Histopathology Image Synthesis
+Whole slide image based deep learning refines prognosis and therapeutic response evaluation in lung adenocarcinoma
+GASA-UNet: Global Axial Self-Attention U-Net for 3D Medical Image Segmentation
+CoCa-CXR: Contrastive Captioners Learn Strong Temporal Structures for Chest X-Ray Vision-Language Understanding
+Deep Learning Model for Predicting Immunotherapy Response in Advanced Non−Small Cell Lung Cancer
+Joint fully convolutional and graph convolutional networks for weakly-supervised segmentation of pathology images
+HookNet: Multi-resolution convolutional neural networks for semantic segmentation in histopathology whole-slide images
+"A Graph-Transformer for Whole Slide 
+Image Classifification"
+From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models
+Rethinking Boundary Detection in Deep Learning-Based Medical Image Segmentation
+Artificial Intelligence–Powered Hematoxylin and Eosin Analyzer Reveals Distinct Immunologic and Mutational Profiles among Immune Phenotypes in Non–Small-Cell Lung Cancer
+TAFL: Task-Agnostic Feature Learner for Efficient Adaptation to Unseen Clinical Tasks based on Whole-Slide Histopathological Images 
+"Deep Interactive Learning-based ovarian cancer segmentation
+of H&E-stained whole slide images to study morphological
+patterns of BRCA mutation"
+PathLDM: Text conditioned Latent Diffusion Model for Histopathology
+Multiple Instance Learning Framework with Masked Hard Instance Mining for Whole Slide Image Classification  
+iMD4GC: Incomplete Multimodal Data Integration to Advance Precise Treatment Response Prediction and Survival Analysis for Gastric Cancer
+Giga-SSL: Self-Supervised Learning for Gigapixel Images
+Mamba-Sea A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation
+Adapting Self-Supervised Learning for Computational Pathology
+MuCST: restoring and integrating heterogeneous morphology images and spatial transcriptomics data with contrastive learning
+Diffusion Models In Medical Imaging: A Comprehensive Survey
+General lightweight framework for vision foundation model supporting multi-task and multi-center medical image analysis
+MVNMF: Multiview nonnegative matrix factorization for radio-multigenomic analysis in breast cancer prognosis
+Learned representation-guided diffusion models for large-image generation
+PST-Diff:Achieving High-consistency Stain Transfer by Diffusion Models with Pathological and Structural Constraints
+WiNet Wavelet-based Incremental Learning
+TinyFusion: Diffusion Transformers Learned Shallow
+AMVLM: Alignment-Multiplicity Aware Vision-Language Model for Semi-Supervised Medical Image Segmentation 
+Attention-challenging multiple instance learning for whole slide image
+Current Pathology Foundation Models are unrobust to Medical Center Differences
+Window-based Channel Attention for Wavelet-enchaned Learned Image Compression
+Multi-head Attention-based Deep Multiple Instance Learning
+Multiple instance learning with graph neural networks
+VIRCHOW2: SCALING SELF-SUPERVISED MIXED MAGNIFICATION MODELS IN PATHOLOGY
+MONAI Label: A framework for AI-assisted interactive labeling of 3D medical images
+Digital pathology-based artificial intelligence models for differential diagnosis and prognosis of sporadic odontogenic keratocysts
+Efficient Multi-Stage Self-Supervised Learning for Pathology Image Analysis via Masking
+Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation
+DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION
+M4: Multi-Proxy Multi-Gate Mixture of Experts Network for Multiple Instance Learning in Histopathology Image Analysis
+AGeneral-Purpose Self-Supervised Model for Computational Pathology
+AHIERARCHICALHYPERGRAPHATTENTIONNETWORKFORSURVIVALANALYSIS FROMPATHOLOGICALIMAGES
+Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology
+Wavelet Convolutions for Large Receptive Fields
+DEEP ACTIVE LEARNING FOR NUCLEUS CLASSIFICATION IN PATHOLOGY IMAGES
+"Whole Slide Images are 2D Point Clouds: 
+Context-Aware Survival Prediction Using 
+Patch-Based Graph Convolutional 
+Networks"
+A Simple Framework for Contrastive Learning of Visual Representations
+Slide-based Graph Collaborative Training for Histopathology Whole Slide Image Analysis 
+Pretrained transformers applied to clinical studies improve predictions of treatment efficacy and associated biomarkers
+Training Generative Image Super-Resolution Models by Wavelet-Domain Losses Enables Better Control of Artifacts
+TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model
+Predicting the tumor microenvironment composition and immunotherapy response in non-small cell lung cancer from digital histopathology images
+Predictive value of ENLIGHT-DP in patients with metastatic lung adenocarcinoma treated with immune checkpoint inhibitors and platinum chemotherapy directly from histopathology slides using inferred transcriptomics
+"Medical Image Segmentation with InTEnt: Integrated Entropy 
+Weighting for Single Image Test-Time Adaptation"
+"Glo-net: A dual task branch based neural network for multi-class 
+glomeruli segmentation"
+MSTNet: Multi-scale spatial-aware transformer with multi-instance learning for diabetic retinopathy classification
+DeepViT: Towards Deeper Vision Transformer
+Detection and subtyping of basal cell carcinoma in whole-slidehistopathology using weakly-supervised learning
+"PathoDuet: foundation models for pathological slide analysis of H&E and IHC stains  
+"
+Frozen Large Language Models Enable Data-Efficient Language-Image Pre-training
+Multi-Scale Feature Alignment for Continual Learning of Unlabeled Domains
+MoMA: Momentum contrastive learning with multi-head attention-based knowledge distillation for histopathology image analysis
+SS ViT: Observing pathologies of multi-layer perceptron weights and re-setting vision transformer
+DIPathMamba: A domain-incremental weakly supervised state space model for pathology image segmentation
+Deep learning assessment of senescence-associated nuclear morphologies in mammary tissue from healthy female donors to predict future risk of breast cancer: a retrospective cohort study
+"A Real-world Dataset and Benchmark For Foundation Model Adaptation in Medical Image Classification
+"
+USP: Unified Self-Supervised Pretraining for Image Generation and Understanding
+HFBSurv: hierarchical multimodal fusion with factorized bilinear models for cancer survival prediction
+A deep learning framework deploying segment anything to detect pan-cancer mitotic figures from haematoxylin and eosin-stained slides
+"Generating and evaluating 
+synthetic data in digital pathology 
+through diffusion models"
+Learnable Prompting SAM-Induced Knowledge Distillation for Semi-Supervised Medical Image Segmentation 
+Self-supervised attention-based deep learning for pan-cancer mutation prediction from histopathology
+EWT Efficient Wavelet-Transformer for Single Image Denoising
+FR-MIL: Distribution Re-calibration based Multiple Instance Learning with Transformer for Whole Slide Image Classification
+Multiple_instance_learning_of_deep_convolutional_neural_networks_for_breast_histopathology_whole_slide_classification
+Inter-Intra Hypergraph Computation for Survival Prediction on Whole Slide Images
+SemiSAM + : Rethinking Semi-Supervised Medical Image Segmentation in the Era of Foundation Models
+Pan-cancer integrative histology-genomic analysis via multimodal deep learning
+Deep active learning for nucleus classification in pathology images
+Self-aware and Cross-sample Prototypical Learning for Semi-supervised Medical Image Segmentation  
+Hierarchical discriminative learning improves visual representations of biomedical microscopy
+Neuropathologist-level integrated classification of adult-type diffuse gliomas using deep learning from whole-slide pathological images
+"NASDM: Nuclei-Aware Semantic 
+Histopathology Image Generation Using 
+Diffusion Models"
+Vim4Path: Self-Supervised Vision Mamba for Histopathology Images
+Mapping the landscape of histomorphological cancer phenotypes using self-supervised learning on unannotated pathology slides
+Predicting response to neoadjuvant chemotherapy in muscle-invasive bladder cancer via interpretable multimodal deep learning
+Breast cancer histopathology image classification using transformer with discrete wavelet transform
+Spatial single-cell proteomics landscape decodes the tumor microenvironmental ecosystem of intrahepatic cholangiocarcinoma
+Automated bone marrow cytology using deep learning to generate a histogram of cell types
+CaMIL: Causal Multiple Instance Learning for Whole Slide Image Classification
+Breast Tumor Tissue Image Classification Using Single-Task Meta Learning with Auxiliary Network
+Hashimoto’s thyroiditis recognition from multi-modal data via global cross-attention and distance-aware training
+Single-cell multi-stage spatial evolutional map of esophageal carcinogenesis
+"Dynamic Entity-Masked Graph Diffusion Model for Histopathological Image 
+Representation Learning"
+Merging Context Clustering with Visual State Space Models for Medical Image Segmentation
+Improving AI models for rare thyroid cancer
+PrPSeg: Universal Proposition Learning for Panoramic Renal Pathology Segmentation 
+Learnable color space conversion and fusion for stain normalization in pathology images
+A deep learning framework for efficient pathology image analysis
+AI-based tumor-stroma ratio quantification algorithm: comprehensive evaluation of prognostic role in primary colorectal cancer
+Denoising Diffusion Probabilistic Models for Synthetic Histopathologic Image Generation
+Annotation-free deep learning for predicting gene mutations from whole slide images of acute myeloid leukemia
+Robust Self-Supervised Multi-Instance Learning with Structure Awareness
+Deep learning-based classification of mesothelioma improves prediction of patient outcome
+Nuclei segmentation with point annotations from pathology images via self-supervised learning and co-training
+Segment Any Tissue: One-shot reference guided training-free automatic point prompting for medical image segmentation
+Generating and evaluating synthetic data in digital pathology through diffusion models
+MC-ViT: Multi-path cross-scale vision transformer for thymoma histopathology whole slide image typing
+UMIT: Unifying Medical Imaging Tasks via Vision-Language Models
+Hierarchical graph representations in digital pathology
+NuHTC: A hybrid task cascade for nuclei instance segmentation and classification
+Transformer-Based Video-Structure Multi-Instance Learning for Whole Slide Image Classification
+FlexiViT: One Model for All Patch Sizes
+Bridging multi-level gaps: Bidirectional reciprocal cycle framework for text-guided label-efficient segmentation in echocardiography
+"Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with 
+Comprehensive Quality Assessment"
+PathSegDiff：Pathology Segmentation Using Diffusion Model Representations
+Noninvasive prognostic classification of ITH in HCC with multi-­omics insights and therapeutic implications
+Hundredfold Accelerating for Pathological Images Diagnosis and Prognosis through Self-reform Critical Region Focusing
+Deep Learning Artificial Intelligence Predicts Homologous Recombination Deficiency and Platinum Response From Histologic Slides
+SegVol: Universal and Interactive Volumetric Medical Image Segmentation
+"SAMMS: Multi-modality Deep Learning with the Foundation Model for the Prediction of Cancer Patient Survival
+"
+Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction
+HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling
+High-Resolution Image Synthesis with Latent Diffusion Models
+"Multistain deep learning for prediction of prognosis and therapy response in colorectal cancer
+"
+TULIP: Towards Unified Language-Image Pretraining 
+BMAD: Benchmarks for Medical Anomaly Detection
+"Cascaded Diffusion Models 
+for High Fidelity Image Generation"
+"Deep learning-driven survival prediction in pan-cancer studies by integrating multimodal histology-genomic data 
+"
+Artificial Intelligence–Powered Human Epidermal Growth Factor Receptor 2 and Tumor Microenvironment Analysis in Human Epidermal Growth Factor Receptor 2–Amplified Metastatic Colorectal Cancer: Exploratory Analysis of Phase II TRIUMPH Trial
+A deep learning framework for in silico screening of anticancer drugs at the single-cell level
+An explainable longitudinal multi-modal fusion model for predicting neoadjuvant therapy response in women with breast cancer
+Joint modeling histology and molecular markers for cancer classification
+Contrastive Masked Image-Text Modeling for Medical Visual Representation Learning
+A super-resolution network using channel attention retention for pathology images
+A foundation model for generalizable cancer diagnosis and survival prediction from histopathological images
+Generating Hypergraph-Based High-Order Representations of Whole-Slide Histopathological Images for Survival Prediction
+Prognostic and predictive values of a multimodal nomogram incorporating tumor and peritumor morphology with immune status in resectable lung adenocarcinoma
+Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation 
+Multimodal radiopathological integration for prognosis and prediction of adjuvant chemotherapy benefit in resectable lung adenocarcinoma: A multicentre study
+DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification
+A foundation model for clinical-grade computational pathology and rare cancers detection
+Semantic Image Synthesis via Diffusion Models
+Digital profiling of gene expression from histology images with linearized attention
+An Alternative Diagnostic Method for C. neoformans: Preliminary Results of Deep-Learning Based Detection Model
+Boosting Multiple Instance Learning Models for Whole Slide Image Classification A Model
+Long-MIL: Scaling Long Contextual Multiple Instance Learning for Histopathology Whole Slide Image Analysis
+Deep Multimodal Learning with Missing Modality: A Survey
+A morphometric signature to identify ductal carcinoma in situ with a low risk of progression
+Your ViT is Secretly an Image Segmentation Model
+OODML: Whole Slide Image Classification Meets Online Pseudo-Supervision and Dynamic Mutual Learning
+Multimodal Co-attention Fusion Network with Online Data Augmentation for Cancer Subtype Classification
+Hypergraph Foundation Model for Brain Disease Diagnosis
+CelloType: a unified model for segmentation and classification of tissue images
+Multi-modal Denoising Diffusion Pre-training for Whole-Slide Image Classification
+PROMIPL: A Probabilistic Generative Model for Multi-Instance Partial-Label Learning
+Nyströmformer: A Nyström-based Algorithm for Approximating Self-Attention 
+Deep learning-based glomerulus detection and classification with generative morphology augmentation in renal pathology images
+Challenges and Opportunities in the Clinical Translation of High-Resolution Spatial Transcriptomics
+Unsupervised Domain Adaptation for Medical Image Segmentation by Disentanglement Learning and Self-Training
+RetCCL: Clustering-guided contrastive learning for whole-slide image retrieval
+CAMIL: Context-aware multiple instance learning for cancer detection and subtyping
+SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images
+"ResCLIP: Residual Attention for Training-free Dense Vision-language Inference
+"
+UniSAL: Unified Semi-supervised Active Learning for histopathological image classification
+WaveDH Wavelet Sub-bands Guided ConvNet
+Focus Your Attention: Multiple Instance Learning with Attention Modification for Whole Slide Pathological Image Classification
+When multiple instance learning meets foundation models: Advancing histological whole slide image analysis
+Semi-supervised ViT knowledge distillation network with style transfer normalization for colorectal liver metastases survival prediction
+Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation
+Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
+Beyond strong labels: Weakly-supervised learning based on Gaussian pseudo labels for the segmentation of ellipse-like vascular structures in non-contrast CTs
+Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement
+Rethinking Autoencoders for Medical Anomaly Detection from A Theoretical Perspective
+Validation of MSIntuit as an AI-based pre-screening tool for MSI detection from colorectal cancer histology slides
+SegRep: Mask-Supervised Learning for Segment Representation in Pathology Images
+Multi-omic machine learning predictor of breast cancer therapy response
+"Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology
+"
+Semi-supervised tissue segmentation from histopathological images with consistency regularization and uncertainty estimation
+"DiffMix: Diffusion Model-based Data Synthesis for 
+Nuclei Segmentation and Classification in 
+Imbalanced Pathology Image Dataset"
+Enhancing Performance of Vision Transformers on Small Datasets through Local Inductive Bias Incorporation
+"Feature Re-Embedding: Towards Foundation Model-Level Performance in
+Computational Pathology"
+An enhanced vision transformer with wavelet position embedding for histopathological image classification
+PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness
+Histopathology based AI model predicts anti-angiogenic therapy response in renal cancer clinical trial
+Multimodal histopathologic models stratify hormone receptor-positive early breast cancer
+Quantitative characterization of cell niches in spatially resolved omics data
+Uformer: A General U-Shaped Transformer for Image Restoration
+Retina image segmentation using
+A domain knowledge enhanced yield based deep learning classifier identifies perineural invasion in oral cavity squamous cell carcinoma
+Pathological Semantics-Preserving Learning for H&E-to-IHC Virtual Staining 
+Multimodal generative AI for medical image interpretation
+CAMIL: channel attention-based multiple instance learning for whole slide image classification 
+SFFNet: A Wavelet-Based Spatial and Frequency Domain Fusion Network for Remote Sensing Segmentation
+Disentangled Pseudo-bag Augmentation for Whole Slide Image Multiple Instance Learning 
+A data-efficient strategy for building high-performing medical foundation models
+"Rethinking Attention-Based Multiple Instance 
+Learning for Whole-Slide Pathological Image 
+Classification: An Instance Attribute Viewpoint"
+TransGUNet: Transformer Meets Graph-based Skip Connection for Medical Image Segmentation
+Pseudo-label attention-based multiple instance learning for whole slide image classification
+Deep learning on tertiary lymphoid structures in hematoxylin-eosin predicts cancer prognosis and immunotherapy response
+DeepRisk network: an Al-based tool for digital pathology signature and treatment responsiveness of gastric cancer using whole-slide images
+Reverse active learning based atrous DenseNet for pathological image classification
+"Multi-Scale Efficient Graph-Transformer
+for Whole Slide Image Classification"
+Prior Knowledge-guided Triple-Domain Transformer-GAN for Direct PET Reconstruction from Low-Count Sinograms
+PathAL: An Active Learning Framework for Histopathology Image Analysis
+PathoTune: Adapting Visual Foundation Model to Pathological Specialists
+"DiffInfinite: Large Mask-Image Synthesis via Parallel 
+Random Patch Diffusion in Histopathology"
+HistoMoCo: MoCo Pre-training on Unlabeled Histopathological Images for Oral Squamous Cell Carcinoma Detection
+HGCLAMIR: Hypergraph contrastive learning with attention mechanism and integrated multi-view representation for predicting miRNA-disease associations
+Histo-Genomic Knowledge Distillation For Cancer Prognosis From Histopathology Whole Slide Images
+PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration
+Transformer-based unsupervised contrastive learning for histopathological image classification
+Wavelet-Based Enhanced Medical Image Super Resolution
+Hypergraph Computation for Medical and Biological Applications
+Multi-Scale Prototypical Transformer for Whole Slide Image Classification
+RandAR: Decoder-only Autoregressive Visual Generation in Random Orders
+CRRG-CLIP: Automatic Generation of Chest Radiology Reports and Classification of Chest Radiographs
+Image as Set of Points
+Dual-stream Multiple Instance Learning Networkfor Whole Slide lmage Classification with Self-supervised Contrastive Learning
+VOILA: Complexity-Aware Universal Segmentation of CT images by Voxel Interacting with Language
+Detection and subtyping of basal cell carcinoma in whole-slide histopathology using weakly-supervised learning
+Deep Learning Model for Predicting Immunotherapy Response in Advanced Non−Small Cell Lung Cancer 
+Joint Spatial-Wavelet Dual-Stream Network for Super-Resolution
+"Self-supervised learning reveals clinically relevant histomorphological patterns for therapeutic strategies in colon cancer
+"
+HEST-1k: A Dataset for Spatial Transcriptomics and Histology Image Analysis
+TAD-Graph: Enhancing Whole Slide Image Analysis via Task-Aware Subgraph Disentanglement
+GDKansformer: A group-wise dynamic Kolmogorov–Arnold transformer with multi-view gated attention for pathological image diagnosis
+Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models
+Cross-scale Multi-instance Learning for Pathological Image Diagnosis  
+"AN IMAGE IS WORTH 16X16 WORDS: 
+TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE"
+Super-resolution and segmentation deep learning for breast cancer histopathology image analysis
+STAIG: Spatial transcriptomics analysis viaimage-aided graph contrastive learning fordomain exploration and alignment-freeintegration
+Deciphering spatial domains from spatial multi-omics with SpatialGlue
+Pathomic Fusion: An Integrated Framework forFusing Histopathology and Genomic Features for Cancer Diagnosis and Prognosis
+Exploring the values underlying machine learning research in medical image analysis
+"Weak-Mamba-UNet: 
+Visual Mamba Makes CNN and ViT Work Better 
+for Scribble-based Medical Image Segmentation"
+ Mixed Supervision of Histopathology Improves Prostate Cancer Classification from MRI
+Residual cyclegan for robust domain transformation of histopathological tissue slides
+"Prediction and analysis of tumor infiltrating lymphocytes across 28 cancers by TILScout using deep learning
+"
+"SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation
+"
+Multi-level Multiple Instance Learning with Transformer for Whole Slide Image Classification
+Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images
+CoD-MIL: Chain-of-Diagnosis Prompting Multiple Instance Learning for Whole Slide Image Classification
+"Tumor budding as a prognostic indicator in colorectal carcinoma: 
+a retrospective study of primary colorectal carcinoma cases 
+in a tertiary care center"
+"Robust sparse orthogonal basis clustering for unsupervised feature selection
+"
+Noisy Labels are Treasure: Mean-Teacher-Assisted Condent Learning for Hepatic Vessel Segmentation
+Next-Generation Morphometry for pathomics-data mining in histopathology
+MaskAttn-UNet: A Mask Attention-Driven Framework for Universal Low-Resolution Image Segmentation
+MMUNet: Morphological feature enhancement network for colon cancer segmentation in pathological images
+A whole-slide foundation model for digital pathology from real-world data
+PMFN-SSL Self-supervised learning-based progressive multimodal fusion
+Efficient Perineural Invasion Detection of Histopathological Images Using U-Net
+"Scaling Self-Supervised Learning for 
+Histopathology with Masked Image Modeling"
+"Foundation Model for Predicting Prognosis and Adjuvant Therapy Benefit From Digital Pathology in GI Cancers
+"
+Machine learning methods for histopathological image analysis: Updates in 2024
+Preoperative Prediction of Perineural Invasion and Prognosis in Gastric Cancer Based on Machine Learning through a Radiomics–Clinicopathological Nomogram
+Dynamic Policy-Driven Adaptive Multi-Instance Learning for Whole Slide Image Classification
+Automated recognition and segmentation of lung cancer cytological images based on deep learning
+CLAM: Data Efficient and Weakly Supervised Computational Pathology on Whole Slide Images
+Cancer diagnosis in histopathological image: CNN based approach
+Describe Anything in Medical Images
+A global-frequency-domain network for medical image segmentation
+From patches to WSIs: A systematic review of deep Multiple Instance Learning in computational pathology
+"ViT-DAE: Transformer-driven Diffusion 
+Autoencoder for Histopathology Image Analysis"
+Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning
+MSPE: Multi-Scale Patch Embedding Prompts Vision Transformers to Any Resolution
+CellSeg2TLS: A Deep Learning Framework for Predicting the Maturation of Tertiary Lymphoid Structures in Pathology Images
+Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification
+Order-ViT: Order Learning Vision Transformer for Cancer Classification in Pathology Images
+F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation
+Tertiary lymphoid structures critical for prognosis in endometrial cancer patients
+Fast and scalable search of whole-slide images via self-supervised deep learning
+Tissue concepts: Supervised foundation models in computational pathology
+Establishment and Verification of Neural Network for Rapid and Accurate Cytological Examination of Four Types of Cerebrospinal Fluid Cells
+"Dynamic graph based weakly supervised deep hashing for whole slide image classification and retrieval
+"
+Deep learning assessment of breast terminal duct lobular unit involution: Towards automated prediction of breast cancer risk
+FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification
+HistoSyn: Histomorphology-Focused Pathology Image Synthesis
+"MONet: cancer driver gene identification algorithm based on integrated analysis of multi-omics data and network models
+"
+Interpretable identification of cancer genes across biological networks via transformer-powered graph representation learning
+Wavelet Diffusion Models are fast and scalable Image Generators
+ Modelling-based joint embeddingofhistologyandgenomicsusingcanonical
+Feature-interactive Siamese graph encoder-based image analysis to predict STAS from histopathology images in lung cancer
+"Convolutional neural network with parallel convolution scale 
+attention module and ResCBAM for breast histology 
+image classification"
+A pathologist–AI collaboration framework for enhancing diagnostic accuracies and efficiencies
+A Survey of Deep Active Learning 
+"Dynamic Graph Representation with Knowledge-aware Attention for
+Histopathology Whole Slide Image Analysis"
+A large annotated cervical cytology images dataset for AI models to aid cervical cancer screening
+HistoKernel: Whole slide image level Maximum Mean Discrepancy kernels for pan-cancer predictive modelling
+Multi-scale representation attention based deep multiple instance learning for gigapixel whole slide image analysis
+Deep learning informed multimodal fusion of radiology and pathology to predict outcomes in HPV-associated oropharyngeal squamous cell carcinoma
+SCEMENT: scalable and memory efficient integration of large-scale single-cell RNA-sequencing data
+PROTOTYPICAL INFORMATION BOTTLENECKING AND DISENTANGLING FOR MULTIMODAL CANCER SUR VIVAL PREDICTION
+Modeling Dense Multimodal Interactions Between Biological Pathways and Histology for Survival Prediction
+Stable Cox regression for survival analysis under distribution shifts
+"TransPath: Transformer-Based 
+Self-supervised Learning for 
+Histopathological Image Classification"
+Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction 
+ ERDUnet: An Efficient Residual Double-Coding Unet for Medical Image Segmentation
+Federated Active Learning Framework for Efﬁcient Annotation Strategy in Skin-lesion Classification
+M2OST:Many-to-oneRegressionforPredictingSpatialTranscriptomicsfrom DigitalPathologyImages
+WaveCNet Wavelet Integrated CNNs to Suppress Aliasing Effect for Noise-Robust Image
+HistoColAi: An open-source web platform for collaborative digital histology image annotation with AI-driven predictive integration
+Clustering Propagation for Universal Medical Image Segmentation
+M4: Multi-proxy multi-gate mixture of experts network for multiple instance learning in histopathology image analysis
+MULTIMODALINFORMATIONINTERACTIONFORMEDICALIMAGESEGMENTATION.
+Ligand-receptor interactions combined with histopathology for improved prognostic modeling in HPV-negative head and neck squamous cell carcinoma
+OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels
+A multi-task deep learning framework for perineural invasion recognition in gastric cancer whole slide images
+Task-specific Fine-tuning via Variational Information Bottleneck for Weakly-supervised Pathology Whole Slide Image Classification
+Weakly supervised deep nuclei segmentation using partial points annotation in histopathology images
+"Aligning, Autoencoding and Prompting Large Language Models for Novel Disease Reporting"
+Reducing self-supervised learning complexity improves weakly-supervised classification performance in computational pathology
+Node-aligned Graph Convolutional Network for Whole-slide ImageRepresentation and Classification
+Development and Validation of a Machine Learning Model for Detection and Classification of Tertiary Lymphoid Structures in Gastrointestinal Cancers

@@ -1,0 +1,87 @@
+{
+  "image_1": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\02af182fc2c1b4484ce66a271c25cde86e3a6b614f67c80eda0e7cfe6bc2e2c3.jpg",
+    "file_name": "02af182fc2c1b4484ce66a271c25cde86e3a6b614f67c80eda0e7cfe6bc2e2c3.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 88806"
+  },
+  "image_2": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\0492b228ec40dd32f42dd08b8c7b76f227a551ca2669605daf230a87c5aef73a.jpg",
+    "file_name": "0492b228ec40dd32f42dd08b8c7b76f227a551ca2669605daf230a87c5aef73a.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 10214"
+  },
+  "image_3": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\0752327fa3fffbd5c3d5da824c4b14c20d2c9b6f2c026528af786149941b92d6.jpg",
+    "file_name": "0752327fa3fffbd5c3d5da824c4b14c20d2c9b6f2c026528af786149941b92d6.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 23702"
+  },
+  "image_4": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\0db154f243851507cd87b2bd42326d8277c0727f0d835c8056d7e2c53fa81dc0.jpg",
+    "file_name": "0db154f243851507cd87b2bd42326d8277c0727f0d835c8056d7e2c53fa81dc0.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 58966"
+  },
+  "image_5": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\19e2771facc1eedc3bec72683ac7aeceb6056889d894a9a14335fe49e27b1cec.jpg",
+    "file_name": "19e2771facc1eedc3bec72683ac7aeceb6056889d894a9a14335fe49e27b1cec.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 28678"
+  },
+  "image_6": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\36b93990566f1e6c68c0a14c361805ec8d543e14e2cdc337213fbed69e75814c.jpg",
+    "file_name": "36b93990566f1e6c68c0a14c361805ec8d543e14e2cdc337213fbed69e75814c.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 114118"
+  },
+  "image_7": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\48c98dd0903dfd1e3ff8771f6223e9056c2d7561f489f9213f60959a5862982e.jpg",
+    "file_name": "48c98dd0903dfd1e3ff8771f6223e9056c2d7561f489f9213f60959a5862982e.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 183738"
+  },
+  "image_8": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\5bf71cff1c6baa1f58ea0e127f5730f33d602e84a1538e324dd1c44a06bc1b0e.jpg",
+    "file_name": "5bf71cff1c6baa1f58ea0e127f5730f33d602e84a1538e324dd1c44a06bc1b0e.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 9346"
+  },
+  "image_9": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\624862402311b1ee9a84fb4b2f01770bb7c968f7f5334e0c9b139043952a6b72.jpg",
+    "file_name": "624862402311b1ee9a84fb4b2f01770bb7c968f7f5334e0c9b139043952a6b72.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 252462"
+  },
+  "image_10": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\6cf1b0b91bd35963c86bd37ce51be0393eed39b9c8af9de305e30b2951cd0e37.jpg",
+    "file_name": "6cf1b0b91bd35963c86bd37ce51be0393eed39b9c8af9de305e30b2951cd0e37.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 14310"
+  },
+  "image_11": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\ab70a0c24a7e3876d77f21da1a9e89d7a1c95e3ebcf71cbf354c281ab4a70757.jpg",
+    "file_name": "ab70a0c24a7e3876d77f21da1a9e89d7a1c95e3ebcf71cbf354c281ab4a70757.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 6230"
+  },
+  "image_12": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\ae8fee29cf73bbd0a288080a3dc2499a64fdf40ad162ae63c867e462ad03b962.jpg",
+    "file_name": "ae8fee29cf73bbd0a288080a3dc2499a64fdf40ad162ae63c867e462ad03b962.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 374134"
+  },
+  "image_13": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\c9a10b357a6df1a1b989f226d77d900d368bcce020d01887a28d61e25d9c4da7.jpg",
+    "file_name": "c9a10b357a6df1a1b989f226d77d900d368bcce020d01887a28d61e25d9c4da7.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 9518"
+  },
+  "image_14": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\d7c016685587680dbfbb565f75f2a3dfde9d4c0f29ad17859ba8d7c4a52a68a4.jpg",
+    "file_name": "d7c016685587680dbfbb565f75f2a3dfde9d4c0f29ad17859ba8d7c4a52a68a4.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 57186"
+  },
+  "image_15": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\db684537fda2acfdcbba25e13eece706697301b98c23514d4da1f1dcab18b242.jpg",
+    "file_name": "db684537fda2acfdcbba25e13eece706697301b98c23514d4da1f1dcab18b242.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 15930"
+  },
+  "image_16": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\e69490a5d8329ac594f5334f5292242bfd688ac70226cbcc58213ac522b15054.jpg",
+    "file_name": "e69490a5d8329ac594f5334f5292242bfd688ac70226cbcc58213ac522b15054.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 67934"
+  },
+  "image_17": {
+    "file_path": "data\\2507.08711v1_SGPMIL Sparse Gaussian Process Multiple Instance L\\MinerU_process\\2507.08711v1\\auto\\images\\fb3c1d3dc69465fb41e510a4fbe2e88a7342e6d1fa2929dcd93181bc157bedb9.jpg",
+    "file_name": "fb3c1d3dc69465fb41e510a4fbe2e88a7342e6d1fa2929dcd93181bc157bedb9.jpg",
+    "analysis": "图片格式不兼容或请求结构有误 (422): Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 196602"
+  }
+}
